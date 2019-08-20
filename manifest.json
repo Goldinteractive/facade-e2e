@@ -1,0 +1,4 @@
+{
+  "id": "e2e-cypress",
+  "whiteList": ["^e2e"]
+}

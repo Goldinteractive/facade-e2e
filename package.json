@@ -1,0 +1,8 @@
+{
+  "name": "facade-e2e",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Goldinteractive/facade-e2e.git",
+  "author": "Gold Interactive GmbH",
+  "license": "MIT"
+}
