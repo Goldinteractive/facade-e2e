@@ -1,8 +1,10 @@
 {
-  "name": "e2e",
-  "version": "1.0.0",
-  "main": "index.js",
+  "name": "e2e-testing",
+  "version": "0.0.1",
+  "main": "",
+  "author": "Gold Interactive",
   "license": "MIT",
+  "private": true,
   "devDependencies": {
     "cypress": "^3.4.1"
   }
