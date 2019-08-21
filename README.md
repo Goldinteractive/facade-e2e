@@ -15,3 +15,9 @@ Start writing your specs in `e2e/cypress/integration`.
 ## Run Cypress
 
 `make test-e2e`
+
+## Maintain the Facade
+
+Push your changes and don't forget to update the package.json version in `e2e/package.json`.
+
+Create a new Tag (Release) for the given version.
